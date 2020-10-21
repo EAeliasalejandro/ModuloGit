@@ -1,0 +1,2 @@
+#vamos a ignorar todos los archivos que terminen en .txt
+*.txt
